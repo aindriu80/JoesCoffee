@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+
+    <img src="JoesCoffeeStore/images/logo.png" />
+
+
+
+    <link href="JoesCoffeeStore/styles/Layout.css" rel="stylesheet"/>
+    <title>Joe's Coffee Store</title>
+    <nav class="backgroundgradient">
+        <ul>
+            <li><a class="navlink" href="index.html">Home</a></li>
+            <li><a class="navlink" href="blog.html">Blog</a></li>
+            <li><a class="navlink" href="allcoffees.html">Our coffees</a></li>
+            <li><a class="navlink" href="accessories.html">Accessories</a></li>
+            <li><a class="navlink" href="Gifts.html">Gifts</a></li>
+            <li><a class="navlink" href="findus.html">Find us</a></li>
+            <li><a class="navlink" href="checkout.html">Checkout</a></li>
+        </ul>
+    </nav>
+    <img src="JoesCoffeeStore/images/coffeeheader.jpg" />
+</head>
+<body>
+This is a test
+
+<section id="bestsellers">
+    <header>Welcome to Joe's coffee shop!</header>
+    this is bestsellers:
+Et est est consequat qui sit et erat aliquam ipsum consequat amet sit erat adipiscing dolor ea clita no ad duo justo et dolor et takimata aliquam laoreet diam ut autem duis gubergren at vero sed consetetur wisi et ea at sit commodo ea no rebum autem nam aliquyam labore
+</section>
+
+body section:
+Zzril amet elitr sed sit amet duo accusam et luptatum eirmod labore ea possim ea consetetur consequat stet dolor vero
+</body>
+</html>
